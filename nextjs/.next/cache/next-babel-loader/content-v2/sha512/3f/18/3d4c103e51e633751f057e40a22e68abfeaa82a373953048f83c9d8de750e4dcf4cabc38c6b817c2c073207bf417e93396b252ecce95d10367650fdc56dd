@@ -1,0 +1,1 @@
+{"ast":null,"code":"var hostServer = 'https://vast-coast-19754.herokuapp.com';\nexport default hostServer;","map":null,"metadata":{},"sourceType":"module"}

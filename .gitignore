@@ -1,0 +1,10 @@
+server-side-rendering/node_modules
+client-side-rendering/node_modules
+nextjs/node_modules
+
+server-side-rendering/package-lock.json
+client-side-rendering/package-lock.json
+nextjs/package-lock.json
+
+server-side-rendering/.env
+client-side-rendering/.env
