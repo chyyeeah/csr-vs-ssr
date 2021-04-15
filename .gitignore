@@ -8,3 +8,7 @@ nextjs/package-lock.json
 
 server-side-rendering/.env
 client-side-rendering/.env
+
+client-side-rendering/client/dist/bundle.js
+server-side-rendering/client/dist/bundle.js
+server-side-rendering/server-build
